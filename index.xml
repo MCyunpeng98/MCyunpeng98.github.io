@@ -1,9 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>我的全新 Hugo 网站</title>
+        <title>MCyunpeng</title>
         <link>http://MCyunpeng98.github.io/</link>
-        <description>我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language>
+        <description>MCyunpeng</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 02 Nov 2020 13:35:55 &#43;0800</lastBuildDate>
             <atom:link href="http://MCyunpeng98.github.io/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>Hello,Word</title>
+    <link>http://MCyunpeng98.github.io/posts/helloword/</link>
+    <pubDate>Mon, 02 Nov 2020 13:35:55 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://MCyunpeng98.github.io/posts/helloword/</guid>
+    <description><![CDATA[测试内容]]></description>
+</item></channel>
 </rss>
