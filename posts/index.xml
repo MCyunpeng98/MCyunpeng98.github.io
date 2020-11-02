@@ -9,6 +9,6 @@
     <pubDate>Mon, 02 Nov 2020 13:35:55 &#43;0800</pubDate>
     <author>作者</author>
     <guid>http://MCyunpeng98.github.io/posts/helloword/</guid>
-    <description><![CDATA[测试内容]]></description>
+    <description><![CDATA[在Windows中搭建Homsetead使用命令vagrant up 报错 $ vagrant up Bringing machine 'homestead-7' up with 'virtualbox' provider... D:/HashiCorp/Vagrant/embedded/gems/2.2.6/gems/vagrant-2.2.6/plugins/provisioners/file/config.rb:20:in `expand_path': incompatible character encodings: UTF-8 and GBK (Encoding::CompatibilityError) from D:/HashiCorp/Vagrant/embedded/gems/2.2.6/gems/vagrant-2.2.6/plugins/provisioners/file/config.rb:20:in `expand_path' from D:/HashiCorp/Vagrant/embedded/gems/2.2.6/gems/vagrant-2.2.6/plugins/provisioners/file/config.rb:20:in `validate' 原因就是用户名是中文的]]></description>
 </item></channel>
 </rss>
