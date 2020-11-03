@@ -2,7 +2,7 @@
     <channel>
         <title>马福超的技术博客</title>
         <link>http://MCyunpeng98.github.io/</link>
-        <description>种一棵树最好的时间是十年前，其次是现在。</description>
+        <description>马福超的技术博客，致力于分享一些技术教程和有趣的技术实践!</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>84106749@qq.com (马福超)</managingEditor>
             <webMaster>84106749@qq.com (马福超)</webMaster><lastBuildDate>Mon, 02 Nov 2020 13:35:55 &#43;0800</lastBuildDate>
             <atom:link href="http://MCyunpeng98.github.io/index.xml" rel="self" type="application/rss+xml" />
