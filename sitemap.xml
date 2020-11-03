@@ -2,11 +2,11 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://MCyunpeng98.github.io/posts/helloword/</loc><lastmod>2020-11-02T13:35:55&#43;08:00</lastmod></url><url>
-            <loc>http://MCyunpeng98.github.io/posts/</loc><lastmod>2020-11-02T13:35:55&#43;08:00</lastmod></url><url>
-            <loc>http://MCyunpeng98.github.io/tags/</loc><lastmod>2020-11-02T13:35:55&#43;08:00</lastmod></url><url>
-            <loc>http://MCyunpeng98.github.io/tags/%E6%B5%8B%E8%AF%95/</loc><lastmod>2020-11-02T13:35:55&#43;08:00</lastmod></url><url>
-            <loc>http://MCyunpeng98.github.io/tags/%E7%81%8C%E6%B0%B4/</loc><lastmod>2020-11-02T13:35:55&#43;08:00</lastmod></url><url>
-            <loc>http://MCyunpeng98.github.io/</loc><lastmod>2020-11-02T13:35:55&#43;08:00</lastmod></url><url>
-            <loc>http://MCyunpeng98.github.io/about/</loc><lastmod>2020-11-01T22:55:28&#43;08:00</lastmod></url><url>
-            <loc>http://MCyunpeng98.github.io/categories/</loc></url></urlset>
+            <loc>http://MCyunpeng98.github.io/helloword/</loc><lastmod>2020-11-02T13:35:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://MCyunpeng98.github.io/posts/</loc><lastmod>2020-11-02T13:35:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://MCyunpeng98.github.io/tags/</loc><lastmod>2020-11-02T13:35:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://MCyunpeng98.github.io/tags/%E6%B5%8B%E8%AF%95/</loc><lastmod>2020-11-02T13:35:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://MCyunpeng98.github.io/tags/%E7%81%8C%E6%B0%B4/</loc><lastmod>2020-11-02T13:35:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://MCyunpeng98.github.io/</loc><lastmod>2020-11-02T13:35:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://MCyunpeng98.github.io/about/</loc><lastmod>2020-11-01T22:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://MCyunpeng98.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
